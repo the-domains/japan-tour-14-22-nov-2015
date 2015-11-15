@@ -1,8 +1,14 @@
-layout_spectrum: 0.2334895
-typography_spectrum: 0.5395507
+layout_spectrum: 0.516129
 color:
   saturation: 0.09240517
   lightness: 0.9375624
-  brandStrength: 0.6691549
+  brandStrength: 0.8888889
+  brandColors:
+    - '#5A79AB'
+    - '#4C5A6E'
+    - '#1E1D20'
+    - '#D7DFE9'
+    - '#885B4B'
   rhythmicContrast: 0.6482142
+typography_spectrum: 0.04121864
 name: Japan Tour - 14-22 Nov 2015
