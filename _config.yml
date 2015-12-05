@@ -1,3 +1,7 @@
+name: Japan Tour - 14-22 Nov 2015
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.04121864
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.04121864
+title: Japan Tour 14-22 Dec 2015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.09240517
-  lightness: 0.9375624
-  brandStrength: 0.9964158
   brandColors:
     - '#88A2D0'
     - '#657788'
     - '#384C5C'
     - '#0E0C0E'
     - '#A49988'
+  brandStrength: 0.9964158
+  lightness: 0.9375624
+  saturation: 0.09240517
   rhythmicContrast: 0.6482142
-layout_spectrum: 1
-name: Japan Tour - 14-22 Nov 2015
+purpose: []
