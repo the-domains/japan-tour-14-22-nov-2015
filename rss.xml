@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Japan Tour - 14-22 Nov 2015]]></title>
         <description><![CDATA[Japan Tour - 14-22 Nov 2015]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/japan-tour-14-22-nov-2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 22:42:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Dec 2015 22:42:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/japan-tour-14-22-nov-2015/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Japan here I come!]]></title>
             <description><![CDATA[<article><h1>Japan here I come!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/783bdaa70abb02fec5f4d9574ec4149c43adb237.png"></article>]]></description>
-            <link>undefinedjapan-here-i-come/index.html</link>
+            <link>https://thegrid.ai/japan-tour-14-22-nov-2015/japan-here-i-come/index.html</link>
             <guid isPermaLink="false">903c620f-8200-47a9-971f-ea4e8c557ef4</guid>
-            <pubDate>Sat, 05 Dec 2015 22:41:50 GMT</pubDate>
+            <pubDate>Sat, 05 Dec 2015 22:42:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
