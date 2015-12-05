@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-05T22:41:50.888Z'
+datePublished: '2015-12-05T22:42:24.364Z'
 publisher:
   domain: ''
   name: ''
 title: 'Japan here I come!'
-dateModified: '2015-12-05T22:40:15.277Z'
+dateModified: '2015-12-05T22:41:50.888Z'
 sourcePath: _posts/2015-12-05-japan-here-i-come.md
 published: true
 inFeed: true
