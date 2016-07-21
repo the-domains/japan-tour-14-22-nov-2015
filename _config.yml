@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.09240517
+  saturation: 0.8978494
   brandStrength: 0.9964158
-  rhythmicContrast: 0.6482142
+  lightness: 0.8781362
   brandColors:
     - '#88A2D0'
     - '#657788'
     - '#384C5C'
     - '#0E0C0E'
     - '#A49988'
-  lightness: 0.9375624
+  rhythmicContrast: 0.6989247
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Japan Tour - 14-22 Nov 2015
 favicon: null
+name: Japan Tour - 14-22 Nov 2015
 opengraph:
   image: null
   type: null
