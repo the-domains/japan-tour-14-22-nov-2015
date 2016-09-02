@@ -6,36 +6,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.4498208
   brandStrength: 1
-  lightness: 0.4874552
+  rhythmicContrast: 0.6182796
   brandColors:
     - '#D7BF9B'
     - '#958160'
     - '#2A2E37'
     - '#98A3B6'
     - '#FEF7E7'
-  rhythmicContrast: 0.6182796
-cta:
-  bucket: null
-  version: null
-  domain: null
+  lightness: 0.4874552
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: Japan Tour - 14-22 Nov 2015
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6290323
-layout_spectrum: 0.9910395
+layout_spectrum: 0.6612903
